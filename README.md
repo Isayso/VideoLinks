@@ -5,6 +5,8 @@ Organize all your Videos and more.
  ![UI](1.png) 
  
  ## Quick Start
+  demo.sqlite file included, chose "open" on first start
+ 
  ### Add local file
  Drag & Drop folder or files to a list (+CTRL with subfolders)
  
