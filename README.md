@@ -1,8 +1,8 @@
 # VideoLinks
-Organize all your Videos and more.
+Organize all your Video links and more.
 
 
- ![UI](1.png) 
+ ![UI](VideoLinks3.png) 
  
  ## Quick Start
   demo.sqlite file included, chose "open" on first start
@@ -12,7 +12,7 @@ Organize all your Videos and more.
  
  ### Add internet links
  Select link and press hotkey (Ctrl+Shift+Y) or copy link to clipboard  
- Copy link to clipboard and Ctrl+V to add to list
+ Copy link to clipboard and Ctrl+V to add to list. Works with Youtube, Rumble, Bitchute, Odysee.
  
  ### Add Youtube Channel
  Copy Channel Link to Clipboard (usually it is the "Watch all" button on Youtube page) and press hotkey
