@@ -1,5 +1,5 @@
 # VideoLinks
-Organize all your Video links and more.
+Organize all your Video links and more. Successor of VideoLinkSafe. 
 
 ## Further development at [Codeberg](https://codeberg.org/Isayso)
 
